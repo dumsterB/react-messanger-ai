@@ -7,10 +7,6 @@ const App = () => {
       holder: 'messanger',
       picture:'',
       token:'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',
-      socials: [
-        { link: "https://facebook.com/name_of_account", type: "facebook" },
-        { link: "https://twitter.com/name_of_account", type: "twitter" }
-      ],
       tools: [], // Specify the desired tools here
       name: 'React App Ai',
     };
