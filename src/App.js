@@ -6,6 +6,12 @@ const App = () => {
     const config = {
       holder: 'messanger',
       picture:'',
+      socials: [
+        { link: "https://instagram.com/name_of_account", type: "support" },
+        { link: "https://t.me/name_of_account", type: "telegram" },
+        { link: "https://facebook.com/name_of_account", type: "facebook" },
+        { link: "https://twitter.com/name_of_account", type: "twitter" }
+      ],
       token:'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',
       tools: [], // Specify the desired tools here
       name: 'React App Ai',
