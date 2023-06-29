@@ -7,7 +7,6 @@ const App = () => {
       holder: 'messanger',
       picture:'',
       socials: [
-        { link: "https://instagram.com/name_of_account", type: "support" },
         { link: "https://t.me/name_of_account", type: "telegram" },
         { link: "https://facebook.com/name_of_account", type: "facebook" },
         { link: "https://twitter.com/name_of_account", type: "twitter" }
